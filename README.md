@@ -17,6 +17,9 @@ To convert text into vectors will using embeddings from langchain.embeddings and
 8.Now I will query which will apply similarity search and text embeddings stored in vector database and going to<br /> 
   get that specific response from LLM model.<br />
 
+Please see the output how to query from the pdf and how accurately information is fetched from pdf as an answer to the question :<br /> 
+
+[![Screenshot-2024-01-20-211012.jpg](https://i.postimg.cc/nh1s70PS/Screenshot-2024-01-20-211012.jpg)](https://postimg.cc/bZsNfH81)
 
 Conclusion :
 
