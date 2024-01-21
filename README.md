@@ -1,7 +1,7 @@
 # Query_Pdf_OpenAI_LANGCHAIN
 This project is created to demonstrate how to query a pdf and store in Vector databse Cassandra for any query.<br />
 
-Steps :<br /> 
+# Steps :<br /> 
 
 1.Read the pdf document using Pypdf.
 2.Create text chunks - split text into seprate packets/chunks for Natural Language processing.<br /> 
@@ -17,11 +17,11 @@ To convert text into vectors will using embeddings from langchain.embeddings and
 8.Now I will query which will apply similarity search and text embeddings stored in vector database and going to<br /> 
   get that specific response from LLM model.<br />
 
-Please see the output how to query from the pdf and how accurately information is fetched from pdf as an answer to the question :<br /> 
+# Please see the output how to query from the pdf and how accurately information is fetched from pdf as an answer to the question :<br /> 
 
 [![Screenshot-2024-01-20-211012.jpg](https://i.postimg.cc/nh1s70PS/Screenshot-2024-01-20-211012.jpg)](https://postimg.cc/bZsNfH81)
 
-Conclusion :
+# Conclusion :
 
 **Vector search** enhances machine learning models by allowing **similarity comparisons of embeddings** which are mathematical representation of 
 high dimensional data.AstraDb , vector serch supports LLM models .So am using Serverless Cassandra with Vector Search.
