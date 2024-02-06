@@ -1,5 +1,7 @@
-# Query_Pdf_OpenAI_LANGCHAIN
-This project is created to demonstrate how to query a pdf and store in Vector databse Cassandra for any query.<br />
+# PDFVectorQuery
+This project is created to demonstrate how to query a pdf and store in Vector databse Cassandra for any query
+Developed a tool using Python,PyPDF,Langchain for querying PDFs and storing in Cassandra Vector DB <br />
+enhancing document searchability.<br />
 
 # Steps :<br /> 
 
